@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?neo version='2.22.184.0'?>
+<NeoItem d1p1:Serializer="Neo.ApplicationFramework.Common.Serialization.ObjectSerializer" xmlns:d1p1="urn:Neo.ApplicationFramework.Serializer">
+  <Object d1p1:type="Neo.ApplicationFramework.Tools.Screen.ScreenDesign.Screen, ToolsIde, Version=2.22.184.0, Culture=neutral, PublicKeyToken=null" Name="Screen_Trend" d1p1:Site.Name="Screen_Trend" ProjectGuid="f699d002-37fc-40e2-9051-f658a75866d1">
+    <AliasConfiguration>
+      <Object d1p1:type="Neo.ApplicationFramework.Controls.Screen.Alias.AliasConfiguration, ControlsIde, Version=2.22.184.0, Culture=neutral, PublicKeyToken=null" Name="AliasConfiguration1" d1p1:Site.Name="AliasConfiguration1" ProjectGuid="f699d002-37fc-40e2-9051-f658a75866d1" />
+    </AliasConfiguration>
+  </Object>
+</NeoItem>
